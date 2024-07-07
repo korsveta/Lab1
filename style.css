@@ -1,0 +1,22 @@
+body {
+   font-family: "Times New Roman";
+   background: url(images/background.png) no-repeat center top ;
+   background-size: cover;
+   margin: 80px 40px;
+
+}
+
+.text {
+   font-size: 40px;
+   color: #131313;
+}
+
+img {
+   max-width: 300px;
+}
+
+table, td, th {
+   border: 1px solid black;
+   border-collapse: collapse;
+   background-color: white;
+}
